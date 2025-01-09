@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\hasan\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
