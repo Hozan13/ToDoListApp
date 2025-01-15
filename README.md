@@ -10,7 +10,7 @@ A simple console-based application to manage your tasks.
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ToDoListApp.git
+   git clone https://github.com/Hozan13/ToDoListApp.git
 2. Open the project in your IDE (e.g., Visual Studio).
 3. Run the application.
 4. Use the menu options to manage your tasks:
